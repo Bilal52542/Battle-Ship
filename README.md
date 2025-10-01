@@ -20,7 +20,5 @@ It is a console-based implementation designed for learning low-level programming
 ---
 
 ## 🚀 How to Run
-
-## 🎮Run the Game (no setup needed)
 1. Go to the `battle-ship.exe` file in the repo.
 2. Double-click it to launch the game in your console.
