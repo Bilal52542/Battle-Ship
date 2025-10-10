@@ -4,8 +4,8 @@ It is a console-based implementation designed for learning low-level programming
 
 ## 🚀 How to Run
 - Go to the **Releases** section of this repository.  
-- Download the latest **`TerraWave.exe`** file.  
-- Run the executable — no installation required! 🌿  
+- Download the latest **`Battle-Ship.exe`** file.  
+- Run the executable — no installation required!
    
 ## 🎯 Features
 - Main menu (Start Game / Exit)
