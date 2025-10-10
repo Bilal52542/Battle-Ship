@@ -18,7 +18,14 @@ It is a console-based implementation designed for learning low-level programming
 - Clean console UI using Irvine32 I/O helpers
 
 ---
+  ## 👥 Credits
+**Developed by:**  
+- Bilal Ahmed Khan (24K-0777)
+- Syed Ashar Tahir (24K-0582)
+- Ahmed Nadir Shah (24K-0609)
 
-## 🚀 How to Run
-1. Go to the `battle-ship.exe` file in the repo.
-2. Double-click it to launch the game in your console.
+  
+  ##
+**Course:** CS-2001 — Data Structures & Algorithms (Fall 2025)  
+**Instructor:** *Basit Jasani & Abdullah Yaqoob*  
+**University:** *FAST NUCES*
