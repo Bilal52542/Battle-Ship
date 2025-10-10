@@ -18,6 +18,6 @@ It is a console-based implementation designed for learning low-level programming
 
   
   ##
-**Course:** CS-2001 — Data Structures & Algorithms (Fall 2025)  
-**Instructor:** *Basit Jasani & Abdullah Yaqoob*  
+**Course:** EE-2003 — Computer Organisations and Assembly Language (Fall 2025)  
+**Instructor:** *Ghulam Qadir Burgari & Miss Rabia Tabassum*  
 **University:** *FAST NUCES*
