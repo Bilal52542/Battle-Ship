@@ -13,7 +13,7 @@ It is a console-based implementation designed for learning low-level programming
 - Input validation and error handling
 - Clean console UI using Irvine32 I/O helpers
 
-  ## 👥 Credits
+## 👥 Credits
 **Developed by:**  
 - Bilal Ahmed Khan (24K-0777)
 - Syed Ashar Tahir (24K-0582)
