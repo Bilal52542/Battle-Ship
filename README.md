@@ -12,9 +12,9 @@ It is a console-based implementation designed for learning low-level programming
 
 ## 👥 Credits
 **Developed by:**  
-- Bilal Ahmed Khan (24K-0777)
-- Syed Ashar Tahir (24K-0582)
-- Ahmed Nadir Shah (24K-0609)
+- [Bilal Ahmed Khan (24K-0777)](https://github.com/Bilal52542)  
+- [Syed Ashar Tahir (24K-0582)](https://github.com/SyedAsharTahir)  
+- [Ahmed Nadir Shah (24K-0609)](https://github.com/AhmedNadirShah)
 
   
   ##
