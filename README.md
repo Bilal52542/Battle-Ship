@@ -1,7 +1,4 @@
 # Battle-Ship
-Battleship game in **x86 Assembly (MASM + Irvine32)**
-
-## 📖 Introduction
 This project recreates the classic **Battleship** game in x86 Assembly.  
 It is a console-based implementation designed for learning low-level programming concepts such as registers, memory layout, branching, and modular design while producing a playable game.
 
