@@ -15,6 +15,10 @@ It is a console-based implementation designed for learning low-level programming
 - Input validation and error handling
 - Clean console UI using Irvine32
 
+## 🧰 Tools
+- **Language:** Assembly (x86, Irvine32)
+- **IDE:** Visual Studio Code 2022
+
 ## 👥 Credits
 **Developed by:**  
 - [Bilal Ahmed Khan (24K-0777)](https://github.com/Bilal52542)  
