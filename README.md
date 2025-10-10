@@ -8,7 +8,7 @@ It is a console-based implementation designed for learning low-level programming
 - Turn-based gameplay for 4 individuals
 - Grid updates showing **Hit / Miss**
 - Input validation and error handling
-- Clean console UI using Irvine32 I/O helpers
+- Clean console UI using Irvine32
 
 ## 👥 Credits
 **Developed by:**  
